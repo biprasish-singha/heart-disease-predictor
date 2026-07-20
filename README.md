@@ -15,13 +15,18 @@ The application allows users to enter clinical parameters and instantly receive 
 
 ## 📷 Application Preview
 
-<img width="455" height="478" alt="image" src="https://github.com/user-attachments/assets/9542e6a6-5816-428a-abe5-86bfcb601049" />
-<img width="463" height="284" alt="image" src="https://github.com/user-attachments/assets/945755ba-8924-454c-a427-a577b62d5fb4" />
+### 🏠 Home Page
+![Home Page 1](images/home_page1.png)
+![Home Page 2](images/home_page2.png)
 
+### ⚠️ High Risk Prediction
 
-![Application Screenshot](images/app.png)
+![High Risk](images/high_risk_output.png)
 
----
+### ✅ Low Risk Prediction
+
+![Low Risk](images/low_risk_output.png)
+
 
 ## 🚀 Features
 
